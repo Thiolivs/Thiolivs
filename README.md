@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thiago Oliveira! :stars:</h1>
 
 <p><em>Graduate in Computer Science at <a href="http://www.ufrj.br">Federal University of Rio de Janeiro</a></br>
-Student at 1000devs programa from Johnson&Johnson and <a href="https://www.mesttra.com/">mesttra. </a></br>
+Student at 1000devs programa from <a href="https://www.jnj.com/"> Johnson&Johnson  and <a href="https://www.mesttra.com/">mesttra. </a></br>
 </em></p>
 
 A Little about me:
@@ -14,7 +14,7 @@ const Me = {
   tools: [Node, Git, Postman],
   aLittleBitOf: {
                         "Web-based projects" : "[Groovy, Grails, PostgreSQL]",
-                        "Mobile development" : "[Kotlin, Android Studio],
+                        "Mobile development" : "[Kotlin, Android Studio]",
                         "Academic projects" : "[C]",
                         "Game development" : "[C#, VA/VR, Unity]", 
                         "IoT" : "[ESP32, Arduino]",
