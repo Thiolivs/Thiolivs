@@ -25,7 +25,7 @@ const Me = {
     today = new date()
     for (day = today ; day == haveBreath() ; day++) {
       learning = On;
-      focus = On;
+      focusing = On;
       listening = On;
       working = vacation ? Off : On
     };  
