@@ -34,7 +34,7 @@ const Me = {
 
 
 Currently :
-- 🔭 Working on personal web game-development project...
+- 🔭 Working on personal web game-development project
 - 🌱 Learning C#, PHP and tools for games
 
 Find me on: 
