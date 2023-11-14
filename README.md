@@ -42,6 +42,7 @@ Find me on : <br>
 [![Linkedin: Thiago Oliveira](https://img.shields.io/badge/-Thiago%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/thiago-oliveira-23269959/)](https://www.linkedin.com/in/thiago-oliveira-23269959/)
 [![GitHub Thiolivs](https://img.shields.io/github/followers/thiolivs?label=follow&style=social)](https://github.com/Thiolivs)
 
+
 ![VisitorCount](https://profile-counter.glitch.me/thiolivs/count.svg)
 
 
