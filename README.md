@@ -7,7 +7,7 @@ Student at 1000devs program from <a href="https://www.jnj.com/"> Johnson&Johnson
 A Little about me:
 
 ```javascript
-const Me = {
+const ME = {
   also: "Thi" | "Guinho" | "Thiolivs", 
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, SQL],
