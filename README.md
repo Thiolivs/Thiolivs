@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Thiago Oliveira! :stars:</h1>
 
-<!--
-**Thiolivs/Thiolivs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Graduate in Computer Science at <a href="http://www.ufrj.br">Federal University of Rio de Janeiro</a></br>
+Student at 1000devs programa from Johnson&Johnson and <a href="https://www.mesttra.com/">mesttra. </a></br>
+</em></p>
 
-Here are some ideas to get you started:
+A Little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Me = {
+  also: "Thi" | "Guinho" | "Thiolivs", 
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, SQL],
+  tools: [Node, Git, Postman],
+  aLittleBitOf: {
+                        "Web-based projects" : "[Groovy, Grails, PostgreSQL]",
+                        "Mobile development" : "[Kotlin, Android Studio],
+                        "Academic projects" : "[C]",
+                        "Game development" : "[C#, VA/VR, Unity]", 
+                        "IoT" : "[ESP32, Arduino]",
+                        "Automation" : "[Python, Selenium, Robot Framework]"
+                }
+}
+
+    today = new date()
+    for (day = today ; day == haveBreath() ; day++) {
+      learning = On;
+      focus = On;
+      listening = On;
+      working = vacation ? Off : On
+    };  
+
+```
+
+
+Currently :
+- 🔭 Working on personal web game-development project...
+- 🌱 Learning C#, PHP and tools for games
+
+Find me on: 
+
+[![Linkedin: Thiago Oliveira](https://img.shields.io/badge/-Thiago%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/thiago-oliveira-23269959/)](https://www.linkedin.com/in/thiago-oliveira-23269959/)
+[![GitHub Thiolivs](https://img.shields.io/github/followers/thiolivs?label=follow&style=social)](https://github.com/Thiolivs)
+
