@@ -24,14 +24,13 @@ const ME = {
 
     today = new date()
     for (day = today ; day == haveBreath() ; day++) {
-      learning = On;
-      focusing = On;
-      listening = On;
-      working = vacation ? Off : On
-    };  
+      learning = On ;
+      focusing = On ;
+      listening = On ;
+      working = vacation ? Off : On ;
+    } ;  
 
 ```
-
 
 Currently :
 - 🔭 Working on personal web game-development project
