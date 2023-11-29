@@ -34,7 +34,7 @@ const ME = {
 
 Currently :
 - 🔭 Working on personal web game-development project
-- 🌱 Learning Unreal Engine, C#, PHP and tools for games
+- 🌱 Learning Node, Unreal Engine, but also C#, PHP and tools for games
 
 Find me on : <br>
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thiolivs.s@gmail.com)
