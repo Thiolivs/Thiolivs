@@ -23,7 +23,7 @@ const ME = {
 }
 
     today = new date()
-    for (day = today ; day == haveBreath() ; day++) {
+    for (day = today ; day <= myLastDay() ; day++) {
       learning = On ;
       focusing = On ;
       listening = On ;
