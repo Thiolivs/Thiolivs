@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thiago Oliveira! :stars:</h1>
 
 <p><em>Graduated in Computer Science at <a href="http://www.ufrj.br">Federal University of Rio de Janeiro</a></br>
-Student at 1000devs program from <a href="https://www.jnj.com/"> Johnson&Johnson </a>  and <a href="https://www.mesttra.com/">mesttra. </a></br>
+Student at 1000devs program from <a href="https://www.jnj.com/"> Johnson&Johnson </a>, <a href="https://ensino.einstein.br/"> Albert Einstein Hospital </a>  and <a href="https://www.mesttra.com/">mesttra. </a></br>
 </em></p>
 
 A Little about me:
