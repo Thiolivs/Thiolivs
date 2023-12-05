@@ -22,13 +22,13 @@ const ME = {
                 }
 }
 
-    today = new date()
-    for (day = today ; day <= myLastDay() ; day++) {
-      learning = On ;
-      focusing = On ;
-      listening = On ;
-      working = vacation ? Off : On ;
-    } ;  
+today = new date()
+for (day = today ; day <= myLastDay() ; day++) {
+  learning = On ;
+  focusing = On ;
+  listening = On ;
+  working = vacation ? Off : On ;
+} ;  
 
 ```
 
