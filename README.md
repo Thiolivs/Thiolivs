@@ -13,12 +13,12 @@ const ME = {
   code: [Javascript, HTML, CSS, Python, SQL],
   tools: [Node, Git, Postman],
   aLittleBitOf: {
-                        "Web-based projects" : "[Groovy, Grails, PostgreSQL]",
-                        "Mobile development" : "[Kotlin, Android Studio]",
-                        "Academic projects" : "[C]",
-                        "Game development" : "[C#, VA/VR, Unity]", 
-                        "IoT" : "[ESP32, Arduino]",
-                        "Automation" : "[Python, Selenium, Robot Framework]"
+                        "Web-based projects" : [Groovy, Grails, PostgreSQL],
+                        "Mobile development" : [Kotlin, Android Studio],
+                        "Academic projects" : [C],
+                        "Game development" : [C#, VA/VR, Unity], 
+                        "IoT" : [ESP32, Arduino],
+                        "Automation" : [Python, Selenium, Robot Framework]
                 }
 }
 
