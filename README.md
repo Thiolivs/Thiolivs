@@ -10,13 +10,13 @@ A Little about me:
 const ME = {
   also: "Thi" | "Guinho" | "Thiolivs", 
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, SQL],
+  code: [Javascript, Python, HTML, CSS, SQL],
   tools: [Node, Git, Postman],
   aLittleBitOf: {
                         "Web-based projects" : [Groovy, Grails, PostgreSQL],
                         "Mobile development" : [Kotlin, Android Studio],
                         "Academic projects" : [C],
-                        "Game development" : [C#, VA/VR, Unity], 
+                        "Game development" : [C#, Unreal Engine, Unity, AR/VR], 
                         "IoT" : [ESP32, Arduino],
                         "Automation" : [Python, Selenium, Robot Framework]
                 }
